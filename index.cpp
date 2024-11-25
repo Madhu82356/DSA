@@ -10,5 +10,6 @@ int main (){
     
     }
     cout<<ans;
+    int a;
     return 0;
 }
